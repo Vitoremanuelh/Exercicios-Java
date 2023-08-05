@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\veman\eclipse-workspace\Course03\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3600848163.index
+1397481789.index
+3393368199.index
